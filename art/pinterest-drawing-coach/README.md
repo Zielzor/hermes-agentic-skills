@@ -4,7 +4,7 @@ This custom Hermes skill asks Hermes to discover easy drawing references on Pint
 
 ## Install on Windows (PowerShell)
 
-1. Download `hermes-pinterest-drawing-coach.zip` from ChatGPT into your Downloads folder.
+1. Download `hermes-pinterest-drawing-coach.zip` from repository into your Downloads folder.
 2. Run:
 
    ```powershell
